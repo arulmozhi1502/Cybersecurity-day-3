@@ -25,3 +25,7 @@ learn to  Use free tools to identify common vulnerabilities on your computer.
     6. Go to Vulnerability Management tab in the Qualys portal.
     7. Your PC will automatically appear as a scanned asset after a few minutes.
     8. Click the hostname → View detailed vulnerability results.
+
+## Result
+- No vulnerabilities were detected on my machine.
+- System is considered secure based on this scan.
