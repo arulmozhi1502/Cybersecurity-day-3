@@ -20,11 +20,16 @@ learn to  Use free tools to identify common vulnerabilities on your computer.
     1. Go to the link above
     2. Click "Get Started" and sign up with your email.
     3. You'll receive login details for the Qualys Cloud Platform.
-    4. After login: Download the Qualys Cloud Agent for Windows from your dashboard.
+    4. After login: Download the Qualys Cloud Agent for Windows from your dashboard -> cloud agend ->activation key
     5. During setup, enter your Customer ID and Activation ID (available on dashboard).
-    6. Go to Vulnerability Management tab in the Qualys portal.
+    6. Go to Vulnerability Management -> assets tab in the Qualys portal.
     7. Your PC will automatically appear as a scanned asset after a few minutes.
     8. Click the hostname → View detailed vulnerability results.
+    9. View:
+          ~ Detected vulnerabilities
+          ~ Their severity levels
+          ~ Affected software
+          ~ Suggested fixes
 
 ## Result
 - No vulnerabilities were detected on my machine.
